@@ -75,6 +75,12 @@ Pada laman ini, memberikan informasi sekilas terkait data penjualan
 Atas Perhatian dan Kesempatannya, saya mengucapkan terima kasih   <img src= "https://cdn.shopify.com/s/files/1/1061/1924/products/18_1024x1024.png?v=1571606118" width="20" />
 
 
+# 4. Installation 
+
+1. Download semua file pada folder model
+2. Download semua file pada folder dataset
+3. Untuk mengkases Web App, pertama akses cmd, lalu menuju directory file model di download, dan tulis `streamlit run web_app.py`
+4. Jalankan Web App, pastikan streamlit sudah terdownload
 
 
 
